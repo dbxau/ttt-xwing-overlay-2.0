@@ -199,8 +199,8 @@ export class PlayerListComponent implements OnInit {
             case "oddballywing":
               pilot.id = "oddball-btlbywing";
               break;
-            case "alexsandrkallus":
-              pilot.id = "alexandrkallus";
+            case "alexandrkallus":
+              pilot.id = "alexsandrkallus";
               break;
             case "tpusk":
               pilot.id = "tapusk";
