@@ -1,4 +1,4 @@
-# TTT X-Wing Overlay
+# TTT X-Wing Overlay for game version <= 2.0
 
 ## Setup
 
